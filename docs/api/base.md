@@ -1,0 +1,1 @@
+::: enhancedtoolkits.base.StrictToolkit
